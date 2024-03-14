@@ -4,10 +4,10 @@ import pandas as pd
 import streamlit as st
 
 # Day 2
-st.write("Day1: Hello, World!")
+st.header("Day2: Hello, World!")
 
 # Day 3
-st.header('Day2: st.button')
+st.header('Day3: st.button')
 
 if st.button('Say hello'):
      st.write('Why hello there')
@@ -17,7 +17,7 @@ else:
 
 # Day 5
 
-st.header('Day3: st.write')
+st.header('Day5: st.write')
 
 # Example 1
 
